@@ -1,0 +1,43 @@
+/* Cursed Timer ULiL  #1B244A* 
+Verdana */
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+}
+.heading{
+    text-align: center;
+    font-size: 40px;
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.score{
+    text-align: center;
+    font-family: 'Cursed Timer ULiL', sans-serif;                                          
+    font-size: 70px;
+    background-color: black;
+    color: #F94F6D;
+    margin: 15px 0px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 1px solid black;
+}
+.btn{
+    background-color: #1B244A;
+    color: #9AABD8;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    padding:10px;
+    text-align: center;
+    margin: 3px;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+}
